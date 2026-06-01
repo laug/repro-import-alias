@@ -1,4 +1,2 @@
 allowBuilds:
   unrs-resolver: true
-overrides:
-  unrs-resolver: "<1.12.0"
